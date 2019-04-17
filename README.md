@@ -13,3 +13,4 @@
 _timer=[NSTimer scheduledWeakTimerWithTimeInterval:1 target:self selector:@selector(dosomeThing) userInfo:nil repeats:YES];
 
 
+
